@@ -1,5 +1,5 @@
 # NaturalRuby
-Nature Inspired Algorithms in Ruby | Base project for Nature++
+Nature Inspired Algorithms in Ruby | Base project for [Nature++](https://github.com/Saket-Upadhyay/NaturePlusPlus)
 ![LabelNR](https://raw.githubusercontent.com/Saket-Upadhyay/NaturalRuby/master/.docs/NRuby.png)
 ### Disclaimer
 
@@ -10,7 +10,7 @@ These codes are taken from the book :
 |  **Author**  | Jason Brownlee  |  
 |  **Release**  |  Revision 2. 16th June 2012 |
 
-***There might be some modifications in the code as should the need arise to support my main project, Nature++.***
+***There might be some modifications in the code as should the need arise to support my main project, [Nature++](https://github.com/Saket-Upadhyay/NaturePlusPlus) .***
 
 
 
