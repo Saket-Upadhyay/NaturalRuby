@@ -1,6 +1,6 @@
 # NaturalRuby
 Nature Inspired Algorithms in Ruby | Base project for Nature++
-
+![LabelNR](https://raw.githubusercontent.com/Saket-Upadhyay/NaturalRuby/master/.docs/NRuby.png)
 ### Disclaimer
 
 These codes are taken from the book :
